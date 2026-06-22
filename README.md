@@ -4,12 +4,6 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,c,py,lua,bash,react,nextjs,vite,nodejs,npm,supabase,docker,vercel,cloudflare,linux,ubuntu,kali,arch,raspberrypi,vscode,robloxstudio,git,github)](https://skillicons.dev)
 
-<!-- Discord Status Badges (Substitua SEU_ID_DO_DISCORD pelo seu ID numérico do Discord) -->
-![Status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1462536039708233925?simple=true)
-![Playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1462536039708233925?simple=true)
-![VS Code](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1462536039708233925?simple=true)
-![Spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1462536039708233925?simple=true)
-
 <details>
 <summary>GitHub Stats</summary>
 <br/>
