@@ -9,7 +9,14 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lotte-xrd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotte-xrd&layout=compact&theme=radical" alt="Most used languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lotte-xrd&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+  
+  <br/><br/>
+
+  <a href="https://github.com/ashutoshgusrani/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lotte-xrd&theme=radical" alt="GitHub Streak Stats" />
+  </a>
 </div>
 </details>
