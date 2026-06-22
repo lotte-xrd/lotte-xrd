@@ -1,4 +1,4 @@
-# Yo!
+# Hey!
 
 **My name is Lotte**, I'm a high school student who loves Chainsaw Man.
 
@@ -9,14 +9,14 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lotte-xrd&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lotte-xrd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   
   <br/><br/>
 
   <a href="https://github.com/ashutoshgusrani/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lotte-xrd&theme=radical" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lotte-xrd&theme=radical" alt="GitHub Streak Stats" />
   </a>
 </div>
 </details>
